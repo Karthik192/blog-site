@@ -7,4 +7,5 @@ It is not hosted on a Web server though.
 
 So, you need to host the website locally on **`port 3000`**.
 
-NoSQL - **`MongoDB`** is used to store the content which is also hosted locally on the **`default mongoDB port`**.
+NoSQL - [**`MongoDB`**](https://www.mongodb.com/) is used to store the content which is also hosted locally on the **`default mongoDB port`**.
+
