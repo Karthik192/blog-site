@@ -7,8 +7,6 @@ It is not hosted on a Web server though.
 
 So, you need to host the website locally on **`port 3000`**.
 
-The new version [**`blog-site v2`**](https://github.com/Karthik192/blog-site-v2) contains database to store the blog-content.
-
 # Blog Website Readme file
 
  This is a blog website which is an online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.
